@@ -1,0 +1,9 @@
+C:\Deidre\Deidre\Chapter02Program01\Chapter02Program01\bin\Debug\Chapter02Program01.exe.config
+C:\Deidre\Deidre\Chapter02Program01\Chapter02Program01\bin\Debug\Chapter02Program01.exe
+C:\Deidre\Deidre\Chapter02Program01\Chapter02Program01\bin\Debug\Chapter02Program01.pdb
+C:\Deidre\Deidre\Chapter02Program01\Chapter02Program01\obj\Debug\Chapter02Program01.csprojAssemblyReference.cache
+C:\Deidre\Deidre\Chapter02Program01\Chapter02Program01\obj\Debug\Chapter02Program01.csproj.CoreCompileInputs.cache
+C:\Deidre\Deidre\Chapter02Program01\Chapter02Program01\obj\Debug\Chapter02Program01.exe
+C:\Deidre\Deidre\Chapter02Program01\Chapter02Program01\obj\Debug\Chapter02Program01.pdb
+C:\Deidre\Deidre\Chapter02Program01\Chapter02Program01\obj\Debug\Chapter02Program01.frmMain.resources
+C:\Deidre\Deidre\Chapter02Program01\Chapter02Program01\obj\Debug\Chapter02Program01.csproj.GenerateResource.cache
